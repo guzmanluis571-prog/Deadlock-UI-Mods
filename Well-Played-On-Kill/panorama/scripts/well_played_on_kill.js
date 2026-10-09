@@ -12,7 +12,7 @@
     'use strict';
 
     const CONFIG = {
-        MESSAGE: 'Well Played!',
+        MESSAGE: 'Good job',
 
         // How often we look for a fresh kill. $.Schedule is frame-bound, so a callback cannot run
         // more than once per frame -- this is "every frame", not 100 scans per second, and the
